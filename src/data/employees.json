@@ -1,0 +1,49 @@
+[
+    {
+        "name": "Jon",
+        "lastName": "Dyson",
+        "profession": {
+            "title": "PM",
+            "yearsExperience": 5,
+            "company": "DuroLabs"
+        }
+  },
+    {
+        "name": "Ellen",
+        "lastName": "Mc Donald",
+        "profession": {
+            "title": "Designer",
+            "yearsExperience": 6,
+            "company": "Xpresso"
+        }
+  },
+    {
+        "name": "Juan",
+        "lastName": "Pérez"
+  },
+    {
+        "name": "Ricardo",
+        "lastName": "Vallarta",
+        "profession": {
+            "title": "Manager",
+            "company": "Meta"
+        }
+  },
+    {
+        "name": "Sergio",
+        "lastName": "López",
+        "profession": {
+            "title": "Social Manager",
+            "yearsExperience": 3,
+            "company": "AXA"
+        }
+  },
+    {
+        "name": "Dean",
+        "lastName": "Tylor",
+        "profession": {
+            "title": "Fireman",
+            "yearsExperience": 10
+        }
+  }
+]
